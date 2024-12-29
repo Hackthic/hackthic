@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Pandey</h1>
-<h3 align="center">I'm B.tech third year student From AIML branch| Full-Stack Web Developer | Creator of Learning-Day YouTube Channel | Passionate about Data Structures and Algorithms</h3>
+<h3 align="center">I'm B.tech Fourth year student From AIML branch| Full-Stack Web Developer | Creator of Learning-Day YouTube Channel | Passionate about Data Structures and Algorithms</h3>
 
 <img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/hackthic_2105" target="blank"><img src="https://img.shields.io/twitter/follow/hackthic_2105?logo=twitter&style=for-the-badge" alt="hackthic_2105" /></a> </p>
